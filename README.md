@@ -22,12 +22,6 @@ KeyMart — это магазин для продажи VPN-ключей с ис
    ADMIN_TELEGRAM_ID=<id_администратора>
    YU_KASSA_PROVIDER_TOKEN=<токен_юкассы>
    DATABASE_URL=<url_подключения_к_базе>
-   SERVER_HOST=localhost
-   SERVER_PORT=8080
-   LOG_LEVEL=INFO
-   JWT_SECRET=<секретный_ключ>
-   ALLOWED_ORIGINS=*
-   ENVIRONMENT=development
    ```
 
 3. Установите зависимости:
